@@ -1,8 +1,17 @@
-Hi, I'm Dominic, a 4th-year Computer Science student at De La Salle University in Manila. I like building systems where an LLM is one piece of the puzzle and the parts that have to be right are handled by plain, tested code.
+<h1 align="center">Hi, I'm Dominic 👋</h1>
+<h3 align="center">A 4th-year Computer Science student at De La Salle University in Manila</h3>
 
-I'm looking for an internship. If you're hiring, I'd love to hear from you at [gomez.dominic.joel@gmail.com](mailto:gomez.dominic.joel@gmail.com).
+<p align="center">
+  I like building systems where an LLM is one piece of the puzzle and the parts that have to be right are handled by plain, tested code.
+</p>
 
-[Portfolio](https://djmgmz.github.io) · [LinkedIn](https://www.linkedin.com/in/djmgmz) · [Instagram](https://www.instagram.com/djmgmz) · [Facebook](https://www.facebook.com/djmgmz)
+<p align="center">
+  I'm looking for an internship. If you're hiring, I'd love to hear from you at <a href="mailto:gomez.dominic.joel@gmail.com">gomez.dominic.joel@gmail.com</a>.
+</p>
+
+<p align="center">
+  <a href="https://djmgmz.github.io">Portfolio</a> · <a href="https://www.linkedin.com/in/djmgmz">LinkedIn</a> · <a href="https://www.instagram.com/djmgmz">Instagram</a> · <a href="https://www.facebook.com/djmgmz">Facebook</a>
+</p>
 
 ## Projects
 
